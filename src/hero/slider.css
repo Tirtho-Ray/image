@@ -1,0 +1,27 @@
+/* slider.css */
+.slider-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .bg-cover {
+    background-size: cover;
+  }
+  
+  .bg-center {
+    background-position: center;
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .h-full {
+    height: 100%;
+  }
+  
