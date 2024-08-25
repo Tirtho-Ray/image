@@ -1,2 +1,2 @@
-first : npm i 
-then : npm run dev
+#first : npm i 
+##then : npm run dev
